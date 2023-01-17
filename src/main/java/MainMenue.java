@@ -57,12 +57,14 @@ public class MainMenue {
 
 			// Delete Table Record By ID
 			case 5:
+				DeleteRecord.deleteRecordById();
 
 				menue();
 				break;
 
 			// Print Record by user input
 			case 6:
+				PrintRecord.PrintRecordFromTable();
 
 				menue();
 				break;
