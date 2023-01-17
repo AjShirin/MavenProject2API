@@ -43,6 +43,7 @@ public class MainMenue {
 
 			// Insert API to database table
 			case 3:
+				InsertValues.insertData();
 
 				menue();
 				break;

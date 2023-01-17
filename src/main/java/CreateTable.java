@@ -21,7 +21,7 @@ public class CreateTable {
 			// Create Table in SQL
 			String createTabelSQL = "CREATE TABLE RandomTable " + "(Id INTEGER PRIMARY KEY IDENTITY(1,1), "
 					+ " common VARCHAR(100), " + " cca2 VARCHAR(100), " + " ccn3 VARCHAR(100), "
-					+ " cca3 VARCHAR(100), " + "cioc VARCHAR(100), " + " independent tinyInt, "
+					+ " cca3 VARCHAR(100), " + " cioc VARCHAR(100), "
 					+ "status VARCHAR(100), " + "region  VARCHAR(100)," + "flag VARCHAR(100)," + "fifa VARCHAR(100),"
 					+ "startOfWeek VARCHAR(100) )";
 

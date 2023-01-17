@@ -17,4 +17,4 @@ CREATE TABLE Mytable(
 
 Select * From RandomTable;
 
-DROP TABLE Mytable;
+DROP TABLE RandomTable;
