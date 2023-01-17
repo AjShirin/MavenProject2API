@@ -50,6 +50,7 @@ public class MainMenue {
 
 			// Update Table Record By ID
 			case 4:
+				UpdateRecordByID.updateRecord();
 
 				menue();
 				break;
