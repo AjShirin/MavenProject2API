@@ -29,6 +29,7 @@ public class MainMenue {
 			// Since The function is Static no need to create new object
 			// Create Table in database
 			case 1:
+				CreateTable.createTable();
 
 				menue();
 				break;
