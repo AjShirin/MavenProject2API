@@ -35,6 +35,7 @@ public class MainMenue {
 
 			// Fetch API and Read
 			case 2:
+				FetchAndReadAPI.FetchAPIAndRead();
 
 				menue();
 				break;
